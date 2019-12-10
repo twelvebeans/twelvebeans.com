@@ -73,6 +73,10 @@ li:before{
   height: 96px;
 }
 
+.has-text-green {
+  color: #43cc00;
+}
+
 .has-background-green {
   color: #ffffff;
   background-color: #43cc00;
