@@ -29,7 +29,7 @@ body {
 
 .parallax {
   /* https://unsplash.com/@olidale */
-  background-image: linear-gradient(to bottom, rgba(255,255,255,0.7) 0%,rgba(255,255,255,0.8) 100%), url("https://twelvebeans.netlify.com/oli_dale_unsplash.jpg");
+  background-image: linear-gradient(to bottom, rgba(255,255,255,0.7) 0%,rgba(255,255,255,0.8) 100%), url("https://twelvebeans.com/oli_dale_unsplash.jpg");
   background-attachment: fixed;
   background-position: center center;
   background-repeat: no-repeat;
